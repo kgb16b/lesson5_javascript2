@@ -1,26 +1,16 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+### Assignment Date:  
+February 22, 2017
 
+### Student Name:  
+Kaelen Birkholz
 
-Hi there! Welcome to Cloud9 IDE!
+### Project Description:
+This assignment uses basic JavaScript to complete an tax bracket calculator application.
 
-To get you started, we included a small hello world application.
+### View Project:
+https://github.com/kgb16b/lesson5_javascript2
 
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+### Lessons Learned in the Assignment:
+1. The most common decision making statement is the if statement.
+2. When one decision-making statement is contained in another, it is called a nested decision making structure. 
+3. An array is a group of values represented by a single variable name. 
